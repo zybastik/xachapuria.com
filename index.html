@@ -7,11 +7,11 @@
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link href="/assets/application-e81999cc7634036657433224c6d98dd1.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.0.4/jquery.imagesloaded.min.js" type="text/javascript"></script>
-<script src="/assets/application-7830fa6433bdbe9996c9a65e8003d33f.js" type="text/javascript"></script>
+<script src="/js/jquery.js" type="text/javascript"></script>
 
 <link href="//shared.houseseven.com/assets/footer.css" media="screen" rel="stylesheet" type="text/css" />
 <script src="//shared.houseseven.com/assets/sh_footer.js" type="text/javascript"></script>
@@ -22,11 +22,65 @@
 
 </head>
 <body class="layout-default home">
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter33064503 = new Ya.Metrika({
+                    id:33064503,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33064503" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68934524-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!--/facebook виджет -->
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+<!--/facebook виджет -->
 
   <header id="header" role="banner" class="invertible">
   <h1>
     <a href="/">
-      <img alt="Pizza East" height="38" src="/assets/logo-white-868218b5dc4dd3df69e1fb37830581f9.png" width="250" />
+      <img alt="Pizza East" height="38" src="/assets/logo.png" width="250" />
     </a>
   </h1>
 </header>
@@ -56,13 +110,13 @@
     <div class="translucent-black"></div>
   </div>
 
-  <img alt="Down-arrow" class="portal-down " height="15" src="/assets/down-arrow-1cd9a259be4feeeb8682e78b5d99763e.png" width="26" />
-  <img alt="Spinner" class="spinner" src="/assets/spinner-87fde93554a2f86b255fbd2259604122.png" />
+  <img alt="Down-arrow" class="portal-down " height="15" src="/assets/down.png" width="26" />
+  <img alt="Spinner" class="spinner" src="/assets/spinner.png" />
 </nav>
 
 <script type="text/html" class="lazy">
   <a class="show-nav invertible" href="#navigation">
-    <img alt="Pin" class="pin" src="/assets/pin-4b4aea8e0d511ce549d976e9c8fc3d9b.png" /> Все рестораны
+    <img alt="Pin" class="pin" src="/assets/pin.png" /> Все рестораны
   </a>
 </script>
 
@@ -91,8 +145,8 @@
     <div class="translucent-black"></div>
   </div>
 
-  <img alt="Down-arrow" class="portal-down " height="15" src="/assets/down-arrow-1cd9a259be4feeeb8682e78b5d99763e.png" width="26" />
-  <img alt="Spinner" class="spinner" src="/assets/spinner-87fde93554a2f86b255fbd2259604122.png" />
+  <img alt="Down-arrow" class="portal-down " height="15" src="/assets/down.png" width="26" />
+  <img alt="Spinner" class="spinner" src="/assets/spinner.png" />
 </div>
 
 
@@ -112,107 +166,31 @@
 <div class="frame-left"></div>
 
 <div class="footer">
-  <footer id="sh-footer">  
-  <div class="cols">
-   
+  <footer id="sh-footer">
+    <div class="cols">
     <div class="col">
-      <h2>More information</h2>
-      <div class="toggle">
-        <ul>
-          <li><a href="http://www.housefestival.co.uk">House Festival</a></li>
-          <li><a href="http://www.eatdrinknap.com">Eat, Drink, Nap</a></li>
-          <li><a href="http://www.cookhouse.com">Cookhouse</a></li>
-          <li><a href="http://www.housetonic.com">House Tonic</a></li>
-          <li><a href="http://www.sohohouse.com/magazine">House Magazine</a></li>
-          <li><a href="https://www.houseseven.com">House Seven</a></li>
-          <li><a href="http://www.sohohouse.com/venues/private-hire">Private hire</a></li>
-          <li><a href="http://www.sohohouse.com/terms-and-conditions">Terms and conditions</a></li>
-          <li><a href="http://www.sohohouse.com/privacy-policy">Privacy policy</a></li>
-          <li><a href="http://careers.sohohouse.com">Careers</a></li>
-          <li><a href="http://www.sohohouse.com/venues/accessibility">Accessibility</a></li>
-          <li><a href="http://www.sohohouse.com/contact">Contact</a></li>
-        </ul>
-      </div>
+          <h2>Instagram </h2>
+            <div class="toggle">
+              <!-- виджет инстаграм -->
+                <iframe src="http://instagramm.ru/instagram-widget-na-sait/iframe/?type=0&imageW=4&imageH=50&bg=&thumbnailSize=90&border=1&padding=5&typetext=xachapuriacafe&uid=1998582003" style="height:500px;width:414px;border:0 none;"></iframe>
+            </div>
+        </div>
+        <div class="col">
+          <h2> </h2>
+            <div class="toggle">
+            </div>
+        </div>
+
+        <div class="col">
+          <h2>Facebook</h2>
+            <div class="toggle">
+               <div class="fb-page" data-href="https://www.facebook.com/xachapuria" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/xachapuria"><a href="https://www.facebook.com/xachapuria">Хачапурия</a></blockquote></div></div>
+               </div>
+        </div>
+
+        
     </div>
-
-    <div class="col">
-      <h2>Houses</h2>
-      <div class="toggle">
-        <h3>United Kingdom</h3>
-        <ul>
-          <li><a href="http://www.highroadhouse.co.uk">High Road House | West London</a></li>
-          <li><a href="http://www.electrichouse.com">Electric House | West London</a></li>
-          <li><a href="http://www.babingtonhouse.co.uk">Babington House | Somerset</a></li>
-          <li><a href="http://www.littlehousemayfair.com">Little House Mayfair</a></li>
-          <li><a href="http://www.shoreditchhouse.com">Shoreditch House | East London</a></li>
-          <li><a href="http://www.sohohouselondon.com">Soho House 40 Greek Street | London</a></li>
-          <li><a href="http://www.sohofarmhouse.com">Soho Farmhouse | Oxfordshire</a></li>
-          <li><a href="http://www.sohohousedeanstreet.com">Soho House 76 Dean Street | London</a></li>
-        </ul>
-
-        <h3>North America</h3>
-        <ul>
-          <li><a href="http://www.sohohouseny.com">Soho House New York</a></li>
-          <li><a href="http://www.sohobeachhouse.com">Soho Beach House | Miami</a></li>
-          <li><a href="http://www.sohohousewh.com">Soho House West Hollywood</a></li>
-          <li><a href="http://www.sohohousetoronto.com">Soho House Toronto</a></li>
-          <li><a href="http://www.sohohousechicago.com">Soho House Chicago</a></li>
-        </ul>
-
-        <h3>Worldwide</h3>
-        <ul>
-          <li><a href="http://www.sohohouseberlin.com">Soho House Berlin</a></li>
-          <li><a href="http://www.sohohouseistanbul.com">Soho House Istanbul</a></li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="col">
-      <h2>Hotels</h2>
-      <div class="toggle">
-        <h3>United Kingdom</h3>
-        <ul>
-          <li><a href="http://www.deanstreettownhouse.com">Dean Street Townhouse | London</a></li>
-          <li><a href="http://www.shoreditchhouse.com/hotel">Shoreditch Rooms | East London</a></li>
-          <li><a href="http://www.babingtonhouse.co.uk">Babington House | Somerset</a></li>
-          <li><a href="http://www.highroadhouse.co.uk">High Road House | West London</a></li>
-          <li><a href="http://www.sohofarmhouse.com">Soho Farmhouse | Oxfordshire</a></li>
-        </ul>
-
-        <h3>North America</h3>
-        <ul>
-          <li><a href="http://www.sohohouseny.com">Soho House New York</a></li>
-          <li><a href="http://www.sohobeachhouse.com">Soho Beach House | Miami</a></li>
-          <li><a href="http://www.sohohousechicago.com">Soho House Chicago</a></li>
-        </ul>
-
-        <h3>Worldwide</h3>
-        <ul>
-          <li><a href="http://www.sohohouseberlin.com">Soho House Berlin</a></li>
-          <li><a href="http://www.sohohouseistanbul.com">Soho House Istanbul</a></li>
-        </ul>
-      </div>
-
-      <h2>Cinemas</h2>
-      <div class="toggle">
-        <ul>
-          <li><a href="http://www.electriccinema.co.uk/portobello">Electric Cinema Portobello</a></li>
-          <li><a href="http://www.electriccinema.co.uk/shoreditch">Electric Cinema Shoreditch</a></li>
-          <li><a href="http://www.ediblecinema.co.uk">Edible Cinema</a></li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="col">
-       </div>
-
-      
-    </div>
-
-  </div>
-</footer>
-
-
+  </footer>
 </div>
 
 <script type="text/javascript">

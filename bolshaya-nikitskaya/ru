@@ -3,15 +3,15 @@
 <!--[if gt IE 8]><!--><html><!--<![endif]-->
 <head>
   <title>Хачапурия | Большая Никитская</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link href="/assets/application-e81999cc7634036657433224c6d98dd1.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.0.4/jquery.imagesloaded.min.js" type="text/javascript"></script>
-<script src="/assets/application-7830fa6433bdbe9996c9a65e8003d33f.js" type="text/javascript"></script>
+<script src="/js/jquery.js" type="text/javascript"></script>
 
 <link href="//shared.houseseven.com/assets/footer.css" media="screen" rel="stylesheet" type="text/css" />
 <script src="//shared.houseseven.com/assets/sh_footer.js" type="text/javascript"></script>
@@ -22,7 +22,49 @@
 
 </head>
 <body class="layout-default location">
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter33064503 = new Ya.Metrika({
+                    id:33064503,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
 
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33064503" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68934524-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!--facebook виджет -->
 <div id="fb-root"></div>
 <script>
 (function(d, s, id) {
@@ -33,11 +75,12 @@
   fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));
 </script>
+<!--/facebook виджет -->
 
   <header id="header" role="banner" class="invertible">
   <h1>
     <a href="/">
-      <img alt="Pizza East" height="34" src="/assets/logo-white-868218b5dc4dd3df69e1fb37830581f9.png" width="200" />
+      <img alt="Pizza East" height="38" src="/assets/logo.png" width="250" />
     </a>
   </h1>
 </header>
@@ -48,44 +91,35 @@
  <div class="middle portal-locations">
 
         <h4>Москва</h4>
+           <a href="/bolshaya-nikitskaya/ru">Большая Никитская</a>
+           <a href="/pyatnitskaya/ru">Пятницкая</a>
+        <h4>Moscow</h4>
+           <a href="/bolshaya-nikitskaya/en">Bolshaya Nikitskaya</a>
+           <a href="/pyatnitskaya/en">Pyatnitskaya</a>
+   </div>
 
-
-      <a href="/kentish-town">Будущий ресторан</a>
-
-
-      <a href="/portobello">Большая Никитская</a>
-
-
-        <h4>Английский язык</h4>
-
-      <a href="/istanbul/en">Тестовая версия английского языка</a>
-  </div>
-
-
-  <div class="fade-in portal-background">
+   <div class="fade-in portal-background">
     <img alt="Meatballs" class="cover" height="899" src="/system/files/012015/54ca1a1cefec851c6200128c/large/meatballs.jpg?1422531249" width="1348" />
 
       <img alt="Pe_am_09-121" class="cover location-image" data-path="/shoreditch" height="1152" data-src="/system/files/082014/53df62f4efec853619000001/large/PE_AM_09-121.jpg?1407148792" width="1440" />
       <img alt="Pizza_east_10118" class="cover location-image" data-path="/kentish-town" height="1080" data-src="/system/files/082014/53df6663efec85473700006e/large/Pizza_East_10118.jpg?1407149709" width="1440" />
-      <img alt="Pizzaeastterrace_daiwilliams_com-10-1" class="cover location-image" data-path="/portobello" height="960" data-src="/system/files/082014/53df7167efec855b8b000001/large/pizzaeastterrace_daiwilliams_com-10-1.jpg?1407152609" width="1440" />
+      <img alt="Pizzaeastterrace_daiwilliams_com-10-1" class="cover location-image" data-path="/bolshaya-nikitskaya/ru" height="960" data-src="/system/files/082014/53df7167efec855b8b000001/large/pizzaeastterrace_daiwilliams_com-10-1.jpg?1407152609" width="1440" />
       <img alt="063676_030" class="cover location-image" data-path="/chicago" height="901" data-src="/system/files/082014/53df7616efec856179000001/large/063676_030.jpg?1407419398" width="1440" />
       <img alt="Img_7819" class="cover location-image" data-path="/istanbul/en" height="960" data-src="/system/files/082014/53e404d9efec857ac1000001/large/IMG_7819.jpg?1410883975" width="1440" />
 
     <div class="translucent-black"></div>
   </div>
 
-  <img alt="Down-arrow" class="portal-down visible" height="15" src="/assets/down-arrow-1cd9a259be4feeeb8682e78b5d99763e.png" width="26" />
-  <img alt="Spinner" class="spinner" src="/assets/spinner-87fde93554a2f86b255fbd2259604122.png" />
+  <img alt="Down-arrow" class="portal-down " height="15" src="/assets/down.png" width="26" />
+  <img alt="Spinner" class="spinner" src="/assets/spinner.png" />
 </nav>
 
 <script type="text/html" class="lazy">
   <a class="show-nav invertible" href="#navigation">
-    <img alt="Pin" class="pin" src="/assets/pin-4b4aea8e0d511ce549d976e9c8fc3d9b.png" /> Все рестораны
+    <img alt="Pin" class="pin" src="/assets/pin.png" /> Все рестораны
   </a>
 </script>
-
-
-  
+ 
 
   <div class="slice portal middle-container cover-container">
 
@@ -96,8 +130,6 @@
         <li><a href="#about-us" class="jumplink">О нас</a></li>
         <li><a href="#gallery" class="jumplink">Галерея</a></li>
         <li><a href="#menus" class="jumplink">Меню</a></li>
-        <li><a href="#book-table" class="jumplink">Book table</a></li>
-
     </ul>
   </div>
 
@@ -106,7 +138,7 @@
     <div class="translucent-black"></div>
   </div>
 
-  <img alt="Down-arrow" class="portal-down visible" height="15" src="/assets/down-arrow-1cd9a259be4feeeb8682e78b5d99763e.png" width="26" />
+  <img alt="Down-arrow" class="portal-down visible" height="15" src="/assets/down.png" width="26" />
 </div>
 
 <div id="about-us" class="jump slice"></div>
@@ -212,7 +244,7 @@
   </div>
 
   <div class="location-background">
-    <img alt="Location-background" src="/assets/location-background-c98a68a953b919067fe0a6139197a588.png" />
+    <img alt="Location-background" src="/assets/location.png" />
   </div>
 
   <div>
@@ -229,54 +261,42 @@
 </div>
 
 <div class="slice social-slice">
-
-
-    <a href="http://www.twitter.com/pizzaeast" class="ss-icon">Twitter</a>
     <a href="https://instagram.com/xachapuriacafe/" class="ss-icon">Instagram</a>
     <a href="https://www.facebook.com/xachapuria" class="ss-icon">Facebook</a>
-
 </div>
 
 
 <div class="frame-top"></div>
+<div class="frame-right"></div>
 <div class="frame-bottom"></div>
 <div class="frame-left"></div>
 
 <div class="footer">
   <footer id="sh-footer">
     <div class="cols">
+    <div class="col">
+          <h2>Instagram </h2>
+            <div class="toggle">
+              <!-- виджет инстаграм -->
+                <iframe src="http://instagramm.ru/instagram-widget-na-sait/iframe/?type=0&imageW=4&imageH=50&bg=&thumbnailSize=90&border=1&padding=5&typetext=xachapuriacafe&uid=1998582003" style="height:500px;width:414px;border:0 none;"></iframe>
+            </div>
+        </div>
         <div class="col">
-      <h2>Фейсбук</h2>
-      <div class="toggle">
-       <div class="fb-page" data-href="https://www.facebook.com/xachapuria" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/xachapuria"><a href="https://www.facebook.com/xachapuria">Хачапурия</a></blockquote></div></div>
-    </div>
-    </div>
+          <h2> </h2>
+            <div class="toggle">
+            </div>
+        </div>
 
-    <div class="col">
-      <h2></h2>
-      <div class="toggle">
-      
+        <div class="col">
+          <h2>Facebook</h2>
+            <div class="toggle">
+               <div class="fb-page" data-href="https://www.facebook.com/xachapuria" data-width="500" data-height="500" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/xachapuria"><a href="https://www.facebook.com/xachapuria">Хачапурия</a></blockquote></div></div>
+               </div>
+        </div>
+
+        
     </div>
-    </div>
-
- <div class="col">
-     <h2>Инстаграм </h2>
-     <div class="toggle">
-       <!-- виджет инстаграм -->
-<iframe src="http://instagramm.ru/instagram-widget-na-sait/iframe/?type=0&imageW=4&imageH=50&bg=&thumbnailSize=95&border=1&padding=5&typetext=xachapuriacafe&uid=1998582003" style="height:500px;width:414px;border:0 none;"></iframe>
-      </div>
-    </div>
-
-    <div class="col">
-     <h2></h2>
-      <div class="toggle">
-
-    </div>
-</div>
-  </div>
-</footer>
-
-
+  </footer>
 </div>
 
 <script type="text/javascript">
