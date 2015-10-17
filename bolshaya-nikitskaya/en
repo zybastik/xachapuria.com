@@ -85,8 +85,10 @@
   </h1>
 </header>
 
-  <nav role="navigation" id="navigation" class="portal middle-container cover-container">
-    <div class="middle portal-locations">
+  <nav role="navigation" id="navigation"
+     class="portal middle-container cover-container">
+
+ <div class="middle portal-locations">
 
         <h4>Москва</h4>
            <a href="/bolshaya-nikitskaya/ru">Большая Никитская</a>
@@ -116,17 +118,7 @@
     <img alt="Pin" class="pin" src="/assets/pin.png" /> Все рестораны
   </a>
 </script>
-
- <div class="slice language_selector">
-    <div class="language-select invertible inverted">
-      <a href="/bolshaya-nikitskaya/ru">RU</a>
-      <span class="lang-divider"> | </span>
-    </div>
-    <div class="language-select invertible inverted">
-      <a href="/bolshaya-nikitskaya/en">EN</a>
-      <span class="lang-divider"> | </span>
-    </div>
-</div>
+ 
 
   <div class="slice portal middle-container cover-container">
 
@@ -254,7 +246,7 @@
           <strong>Четверг:</strong> 12:00 – 00:00<br/>
           <strong>Пятница:</strong> 12:00 – 00:00<br/>
           <strong>Суббота:</strong> 12:00 – 00:00<br/>
-          <strong>Воскресенье:</strong> 12:00 – 00:00<br/></p>
+          <strong>Поскресенье:</strong> 12:00 – 00:00<br/></p>
     </div>
   </div>
 
@@ -264,23 +256,20 @@
 
   <div>
     <div class="location-section location-booking-text">
-      <h3>Акции:</h3>
-<p>Тут будут актуальные, на данный момент, акции.</p>
+      <p>If there are no tables available online we always hold back a number of tables each evening, please call us on 020 8969 4500 to enquire.</p>
+<p>For group bookings email <a href="mailto:eventspep@pizzaeast.com">eventspep@pizzaeast.com</a></p>
     </div>
 
     <div class="location-section location-booking-widget">
-    <!--
       <script type="text/javascript" src="http://www.opentable.com/frontdoor/default.aspx?rid=62539&restref=62539&bgcolor=F6F6F3&titlecolor=0F0F0F&subtitlecolor=0F0F0F&btnbgimage=http://www.opentable.com/frontdoor/img/ot_btn_black.png&otlink=FFFFFF&icon=light&mode=short"></script>
-      -->
-      <iframe src="http://instagramm.ru/instagram-widget-na-sait/iframe/?type=0&imageW=4&imageH=50&bg=&thumbnailSize=90&border=1&padding=5&typetext=xachapuriacafe&uid=1998582003" style="height:180px;width:300px;border:0 none;"></iframe>
     </div>
   </div>
 
 </div>
 
 <div class="slice social-slice">
-    <a href="https://instagram.com/xachapuriacafe/" target="_blank" class="ss-icon">Instagram</a>
-    <a href="https://www.facebook.com/xachapuria" target="_blank" class="ss-icon">Facebook</a>
+    <a href="https://instagram.com/xachapuriacafe/" class="ss-icon">Instagram</a>
+    <a href="https://www.facebook.com/xachapuria" class="ss-icon">Facebook</a>
 </div>
 
 
