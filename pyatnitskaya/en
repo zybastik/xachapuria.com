@@ -2,12 +2,12 @@
 <!--[if lt IE 9]><html class="lte-ie8"><![endif]-->
 <!--[if gt IE 8]><!--><html><!--<![endif]-->
 <head>
-  <title>Хачапурия | Большая Никитская</title>
+  <title>Xachapuria | Pyatnitskaya</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
-<link rel="alternate" hreflang="en-us" href="http://xachapuria.com/bolshaya-nikitskaya/en" />
+<link rel="alternate" hreflang="ru" href="http://xachapuria.com/pyatnitskaya/ru" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.0.4/jquery.imagesloaded.min.js" type="text/javascript"></script>
@@ -113,34 +113,34 @@
 
 <script type="text/html" class="lazy">
   <a class="show-nav invertible" href="#navigation">
-    <img alt="Pin" class="pin" src="/assets/pin.png" /> Все рестораны 
+    <img alt="Pin" class="pin" src="/assets/pin.png" /> All locations
   </a>
 </script>
 
  <div class="slice language_selector">
     <div class="language-select invertible inverted">
-      <a href="/bolshaya-nikitskaya/ru">RU</a>
+      <a href="/pyatnitskaya/ru">RU</a>
       <span class="lang-divider"> | </span>
     </div>
     <div class="language-select invertible inverted">
-      <a href="/bolshaya-nikitskaya/en">EN</a>
+      <a href="/pyatnitskaya/en">EN</a>
       <span class="lang-divider"> | </span>
     </div>
 </div>
 
   <div class="slice portal middle-container cover-container">
   <div class="middle location-header">
-    <h1>Большая Никитская</h1>
+    <h1>Pyatnitskaya</h1>
     <ul class="location-navigation invertible">
-        <li><a href="#about-us" class="jumplink">О нас</a></li>
-        <li><a href="#gallery" class="jumplink">Галерея</a></li>
-        <li><a href="#menus" class="jumplink">Меню</a></li>
-        <li><a href="#contact" class="jumplink">Контакты</a></li>
+        <li><a href="#about-us" class="jumplink">About us</a></li>
+        <li><a href="#gallery" class="jumplink">Gallery</a></li>
+        <li><a href="#menus" class="jumplink">Menus</a></li>
+        <li><a href="#contact" class="jumplink">Contact</a></li>
     </ul>
   </div>
 
   <div class="fade-in portal-background">
-    <img alt="bn_1" class="cover" height="960" src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
+    <img alt="py_1" class="cover" height="960" src="/images/pyatnitskaya/py_1.jpg" width="1440" />
     <div class="translucent-black"></div>
   </div>
 
@@ -150,11 +150,11 @@
 <div id="about-us" class="jump slice"></div>
 
 <div class="slice text-slice light">
-  <div class="text"><h3>Большая Никитская, 26/2<br />
-109012 Москва, Россия<br />
+  <div class="text"><h3>Pyatnitskaya, 6/1<br />
+109012 Moscow, Russia<br />
 8 (495) 975-55-90</h3>
-<p><a href="https://www.google.ru/maps/place/%D0%A5%D0%B0%D1%87%D0%B0%D0%BF%D1%83%D1%80%D0%B8%D1%8F/@55.7574065,37.5987762,17z/data=!3m1!4b1!4m2!3m1!1s0x46b54a4ed4945aff:0x782f60a5b562302e?hl=ru" target="_blank" class="button">Мы на карте</a></p>
-<p>Хачапурия - реверанс в «советскую» курортную сторону. В меню хачапури: от лодочки с фасолью и копчёным мясом до привычного варианта с сыром и яйцом, свежая выпечка, булочки, горячий какао с пончиками, цыпленок «с секретом», приготовленный в дровяной печи или под прессом на сковороде, и много любопытных, оглушительно вкусных вещей. Меню в духе советских курортных зон с их гастрономическими традициями. Им очаруется каждый. Здесь не придется объяснять, почему газировка - в конкусах, а пломбир посыпают печеньем с орехами, заливают вишневым сиропом и приносят в креманках. Ровно так, как подавали 20 лет назад, да и сейчас подают в сухумских кафе.</p></div>
+<p><a href="https://www.google.ru/maps/place/%D0%A5%D0%B0%D1%87%D0%B0%D0%BF%D1%83%D1%80%D0%B8%D1%8F/@55.7574065,37.5987762,17z/data=!3m1!4b1!4m2!3m1!1s0x46b54a4ed4945aff:0x782f60a5b562302e?hl=ru" target="_blank" class="button">View map</a></p>
+<p>“Xachapuriya” is a reverence to the Soviet side of the resort. In menu there are Xachapuries: from the boat with beans and smoked meat to the usual version with cheese and eggs, fresh baking, muffins, hot cocoa with donuts, a chicken “with a secret” that is cooked in a wood-fired oven or under pressure in a frying pan, and a lot of interesting deafeningly tasty dishes. The menu is in the spirit of Soviet resort areas with their gastronomic traditions. They will charm everyone. It does not need to explain here why the soda is in konkyces and ice cream is sprinkled with biscuits and nuts, poured with cherry jam and brought in kremankies. Exactly as it was filed 20 years ago and now is served in Sukhumis’ café.</p></div>
 </div>
 
 <div id="gallery" class="jump slice"></div>
@@ -162,19 +162,19 @@
   <div class="images-container">
     <ul class="images">
         <li class="cover-container">
-          <img alt="bn_2" class="cover" height="1079" data-src="/images/bolshaya-nikitskaya/bn_2.jpg" width="1440" />
+          <img alt="py_2" class="cover" height="1079" data-src="/images/pyatnitskaya/py_2.jpg" width="1440" />
         </li>
         <li class="cover-container">
-          <img alt="bn_5" class="cover" height="1079" data-src="/images/bolshaya-nikitskaya/bn_5.jpg" width="1440" />
+          <img alt="py_3" class="cover" height="1079" data-src="/images/pyatnitskaya/py_3.jpg" width="1440" />
         </li>
         <li class="cover-container">
-          <img alt="bn_6" class="cover" height="1079" data-src="/images/bolshaya-nikitskaya/bn_6.jpg" width="1440" />
+          <img alt="py_4" class="cover" height="1079" data-src="/images/pyatnitskaya/py_4.jpg" width="1440" />
         </li>
         <li class="cover-container">
-          <img alt="bn_7" class="cover" height="1079" data-src="/images/bolshaya-nikitskaya/bn_7.jpg" width="1440" />
+          <img alt="py_5" class="cover" height="1079" data-src="/images/pyatnitskaya/py_5.jpg" width="1440" />
         </li>
         <li class="cover-container">
-          <img alt="bn_8" class="cover" height="1079" data-src="/images/bolshaya-nikitskaya/bn_8.jpg" width="1440" />
+          <img alt="py_6" class="cover" height="1079" data-src="/images/pyatnitskaya/py_6.jpg" width="1440" />
         </li>
     </ul>
   </div>
@@ -183,48 +183,48 @@
   <div class="placeholder slice"></div>
     <div id="menus" class="jump slice"></div>
       <div class="slice menus-slice">
-       <h3>Меню</h3>
+       <h3>Menus</h3>
             <ul class="menus-list">
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list1.pdf">
+                <a href="/menu/pyatnitskaya/list1.pdf">
                   <h4>Breakfast</h4>
-                  <h5>Смотреть PDF</h5>
+                  <h5>View PDF</h5>
                 </a>
               </li>
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list2.pdf">
+                <a href="/menu/pyatnitskaya/list2.pdf">
                  <h4>All Day</h4>
-                 <h5>Смотреть PDF</h5>
+                 <h5>View PDF</h5>
                 </a> 
               </li>
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list3.pdf">
+                <a href="/menu/pyatnitskaya/list3.pdf">
                  <h4>Saturday Brunch</h4>
-                 <h5>Смотреть PDF</h5>
+                 <h5>View PDF</h5>
                 </a> 
               </li>
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list4.pdf">
+                <a href="/menu/pyatnitskaya/list4.pdf">
                  <h4>Sunday Brunch</h4>
-                 <h5>Смотреть PDF</h5>
+                 <h5>View PDF</h5>
                 </a> 
               </li>
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list5.pdf">
+               <a href="/menu/pyatnitskaya/list5.pdf">
                  <h4>Sunday All Day</h4>
-                 <h5>Смотреть PDF</h5>
+                 <h5>View PDF</h5>
                </a> 
               </li>
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list6.pdf">
+               <a href="/menu/pyatnitskaya/list6.pdf">
                  <h4>Cocktails</h4>
-                 <h5>Смотреть PDF</h5>
+                 <h5>View PDF</h5>
                </a>
               </li>
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list7.pdf">
+               <a href="/menu/pyatnitskaya/list7.pdf">
                  <h4>Dessert</h4>
-                 <h5>Смотреть PDF</h5>
+                 <h5>View PDF</h5>
                </a> 
               </li>
             </ul>
@@ -235,22 +235,22 @@
 <div id="contact" class="slice location-details-slice dark">
   <div>
     <div class="location-section location-contact">
-      <h3>Контакты:</h3>
-      <p>Большая Никитская, 26/2<br />
-          109012 Москва, Россия</p>
-      <p><a href="tel:84959755590" class="button">Телефон</a></p>
+      <h3>Contact:</h3>
+      <p>Pyatnitskaya, 6/1<br />
+          109012 Moscow, Russia</p>
+      <p><a href="tel:84959755590" class="button">Phone</a></p>
       <p><a href="mailto:reception@pizzaeastportobello.com" class="button">Email</a></p>
     </div>
 
     <div class="location-section location-opening-hours">
-      <h3>Часы работы:</h3>
-       <p><strong>Понедельник:</strong> 12.00 – 00.00<br/>
-          <strong>Вторник:</strong> 12:00 – 00:00<br/>    
-          <strong>Среда:</strong> 12:00 – 00:00<br/>
-          <strong>Четверг:</strong> 12:00 – 00:00<br/>
-          <strong>Пятница:</strong> 12:00 – 00:00<br/>
-          <strong>Суббота:</strong> 12:00 – 00:00<br/>
-          <strong>Воскресенье:</strong> 12:00 – 00:00<br/></p>
+      <h3>Opening hours:</h3>
+       <p><strong>Monday:</strong> 12am – 12pm<br/>
+          <strong>Tuesday:</strong> 12am – 12pm<br/>    
+          <strong>Wednesday:</strong> 12am – 12pm<br/>
+          <strong>Thursday:</strong> 12am – 12pm<br/>
+          <strong>Friday:</strong> 12am – 12pm<br/>
+          <strong>Saturday:</strong> 12am – 12pm<br/>
+          <strong>Sunday:</strong> 12am – 12pm<br/></p>
     </div>
   </div>
 
@@ -260,16 +260,16 @@
 
   <div>
     <div class="location-section location-booking-text">
-      <h3>Горячее предложение:</h3>
+      <h3>Hot offer:</h3>
         <p>Тут будут актуальные, на данный момент, акции.</p>
     </div>
 
-    <div class="location-section location-booking-widget">
-     <h3>Наши друзья:</h3> </br>
+   <div class="location-section location-booking-widget">
+       <h3>Our friends:</h3></br>
       <a href="http://laffalaffa.ru">
         <img alt="laffa" height="43" src="/assets/laffa.png" width="180" />
       </a>
-      <p>middle eastern street food – в Москве! Тонкая и мягкая восточная лепешка «лаффа» – в Израиле в такую заворачивают шаварму, добралась и до Москвы.</p>
+      <p>middle eastern street food is in Moscow! Thin and soft eastern tortilla “laffa”, in which shaverma is wrapped in Israel, has reached Moscow!</p>
     </div>
   </div>
 </div>
