@@ -4,7 +4,8 @@
 <head>
   <title>Хачапурия | Пятницкая</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="">
+<meta name="description" content="Хачапурия на Пятницкой. В меню хачапури: от лодочки с фасолью и копчёным мясом до привычного варианта с сыром и яйцом, свежая выпечка, булочки и горячий какао с пончиками.">
+<meta name="keywords" lang="ru" content="хачапурия,хачапурия кафе, хачапурия меню, хачапурия пятницкая">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
 <link rel="alternate" hreflang="en-us" href="http://xachapuria.com/pyatnitskaya/en" />
@@ -79,7 +80,7 @@
 </script>
 <!--/facebook виджет -->
 
-  <header id="header" role="banner" class="invertible">
+<header id="header" role="banner" class="invertible">
   <h1>
     <a href="/">
       <img alt="Pizza East" height="38" src="/assets/logo.png" width="250" />
@@ -239,7 +240,7 @@
       <p>Пятницкая, 6/1<br />
           109012 Москва, Россия</p>
       <p><a href="tel:84959755590" class="button">Телефон</a></p>
-      <p><a href="mailto:reception@pizzaeastportobello.com" class="button">Email</a></p>
+      <p><a href="mailto:info@xachapuria.com" class="button">Email</a></p>
     </div>
 
     <div class="location-section location-opening-hours">
@@ -291,9 +292,11 @@
     <div class="col">
           <h2>Instagram </h2>
             <div class="toggle">
-              <!-- виджет инстаграм -->
+               <!-- виджет инстаграм -->
+              <!--
                 <iframe src="http://instagramm.ru/instagram-widget-na-sait/iframe/?type=0&imageW=4&imageH=50&bg=&thumbnailSize=90&border=1&padding=5&typetext=xachapuriacafe&uid=1998582003" style="height:500px;width:414px;border:0 none;"></iframe>
-
+               -->
+               <iframe src="http://ejfe.ru/noreg?type=lenta&insta=xachapuriacafe&color=CCC3BC&count=10&width=" frameborder="0" width="470" height="500"></iframe> 
             </div>
         </div>
         <div class="col">
