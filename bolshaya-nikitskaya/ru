@@ -83,7 +83,7 @@
 <header id="header" role="banner" class="invertible">
   <h1>
     <a href="/">
-      <img alt="Pizza East" height="38" src="/assets/logo.png" width="250" />
+      <img alt="Xachapuria" height="38" src="/assets/logo.png" width="250" />
     </a>
   </h1>
 </header>
@@ -104,9 +104,9 @@
 
    <div class="fade-in portal-background">
       <img alt="xachapuri" class="cover" height="899" src="/images/xachapuri.jpg" width="1348" />
-      <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/ru" height="1152" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
+      <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/ru" height="960" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
       <img alt="py_1" class="cover location-image" data-path="/pyatnitskaya/ru" height="960" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
-      <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/en" height="901" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
+      <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/en" height="960" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
       <img alt="py_1" class="cover location-image" data-path="/pyatnitskaya/en" height="960" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
 
     <div class="translucent-black"></div>

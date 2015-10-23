@@ -82,7 +82,7 @@
 <header id="header" role="banner" class="invertible">
   <h1>
     <a href="/">
-      <img alt="Pizza East" height="38" src="/assets/logo.png" width="250" />
+      <img alt="Xachapuria" height="38" src="/assets/logo.png" width="250" />
     </a>
   </h1>
 </header>
@@ -103,9 +103,9 @@
 
    <div class="fade-in portal-background">
       <img alt="xachapuri" class="cover" height="899" src="/images/xachapuri.jpg" width="1348" />
-      <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/ru" height="1152" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
+      <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/ru" height="960" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
       <img alt="py_1" class="cover location-image" data-path="/pyatnitskaya/ru" height="960" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
-      <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/en" height="901" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
+      <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/en" height="960" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
       <img alt="py_1" class="cover location-image" data-path="/pyatnitskaya/en" height="960" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
 
     <div class="translucent-black"></div>
@@ -157,7 +157,7 @@
   <div class="text"><h3>Bolshaya Nikitskaya, 26/2<br />
 109012 Moscow, Russia<br />
 8 (495) 975-55-90</h3>
-<p><a href="https://www.google.ru/maps/place/%D0%A5%D0%B0%D1%87%D0%B0%D0%BF%D1%83%D1%80%D0%B8%D1%8F/@55.7574065,37.5987762,17z/data=!3m1!4b1!4m2!3m1!1s0x46b54a4ed4945aff:0x782f60a5b562302e?hl=ru" target="_blank" class="button">View map</a></p>
+<p><a href="https://www.google.com/maps/place/%D0%A5%D0%B0%D1%87%D0%B0%D0%BF%D1%83%D1%80%D0%B8%D1%8F/@55.7574065,37.5987762,17z/data=!3m1!4b1!4m2!3m1!1s0x46b54a4ed4945aff:0x782f60a5b562302e?hl=en" target="_blank" class="button">View map</a></p>
 <p> “Xachapuriya” is a reverence to the Soviet side of the resort. In menu there are Xachapuries: from the boat with beans and smoked meat to the usual version with cheese and eggs, fresh baking, muffins, hot cocoa with donuts, a chicken “with a secret” that is cooked in a wood-fired oven or under pressure in a frying pan, and a lot of interesting deafeningly tasty dishes. The menu is in the spirit of Soviet resort areas with their gastronomic traditions. They will charm everyone. It does not need to explain here why the soda is in konkyces and ice cream is sprinkled with biscuits and nuts, poured with cherry jam and brought in kremankies. Exactly as it was filed 20 years ago and now is served in Sukhumis’ café.</p></div>
 </div>
 
