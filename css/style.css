@@ -309,9 +309,11 @@ a {
 }
 
 .footer {
-    position: relative;
+    position: absolute;
     z-index: 1
 }
+
+
 
 #header {
     position: fixed;
@@ -1060,5 +1062,4 @@ a {
         width: auto !important
     }
 }
-
 

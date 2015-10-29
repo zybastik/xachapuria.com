@@ -91,15 +91,11 @@
   <nav role="navigation" id="navigation" class="portal middle-container cover-container">
     <div class="middle portal-locations">
         <h4>Москва</h4>
-           <a href="/bolshaya-nikitskaya/ru">Большая Никитская</a>
-           <!--
-           <a href="/pyatnitskaya/ru">Пятницкая</a>
-           -->
+           <a href="/bolshaya-nikitskaya/ru">Большая Никитская 26/2</a>
+           <a href="/pyatnitskaya/ru">Пятницкая 6/1</a>
         <h4>Moscow</h4>
-           <a href="/bolshaya-nikitskaya/en">Bolshaya Nikitskaya</a>
-           <!--
-           <a href="/pyatnitskaya/en">Pyatnitskaya</a>
-           -->
+           <a href="/bolshaya-nikitskaya/en">Bolshaya Nikitskaya 26/2</a>
+           <a href="/pyatnitskaya/en">Pyatnitskaya 6/1</a>
    </div>
 
    <div class="fade-in portal-background">
@@ -191,46 +187,22 @@
        <h3>Меню</h3>
             <ul class="menus-list">
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list1.pdf">
-                  <h4>Breakfast</h4>
+               <a href="/menu/bolshaya-nikitskaya/list1ru.pdf">
+                  <h4>Хачапур</h4>
                   <h5>Смотреть PDF</h5>
                 </a>
               </li>
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list2.pdf">
-                 <h4>All Day</h4>
+               <a href="/menu/bolshaya-nikitskaya/list2ru.pdf">
+                 <h4>Разное</h4>
                  <h5>Смотреть PDF</h5>
                 </a> 
               </li>
               <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list3.pdf">
-                 <h4>Saturday Brunch</h4>
+               <a href="/menu/bolshaya-nikitskaya/list4ru.pdf">
+                 <h4>Напитки</h4>
                  <h5>Смотреть PDF</h5>
                 </a> 
-              </li>
-              <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list4.pdf">
-                 <h4>Sunday Brunch</h4>
-                 <h5>Смотреть PDF</h5>
-                </a> 
-              </li>
-              <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list5.pdf">
-                 <h4>Sunday All Day</h4>
-                 <h5>Смотреть PDF</h5>
-               </a> 
-              </li>
-              <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list6.pdf">
-                 <h4>Cocktails</h4>
-                 <h5>Смотреть PDF</h5>
-               </a>
-              </li>
-              <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list7.pdf">
-                 <h4>Dessert</h4>
-                 <h5>Смотреть PDF</h5>
-               </a> 
               </li>
             </ul>
       </div>
@@ -270,9 +242,9 @@
     </div>
 
     <div class="location-section location-booking-widget">
-     <h3>Наши друзья:</h3> </br>
-      <a href="http://laffalaffa.ru">
-        <img alt="laffa" height="43" src="/assets/laffa.png" width="180" />
+     <h3>Наши друзья:</h3>
+      <a href="http://laffalaffa.ru" target="_blank">
+        <img alt="laffa" height="53" src="/assets/laffa.png" width="180" />
       </a>
       <p>middle eastern street food – в Москве! Тонкая и мягкая восточная лепешка «лаффа» – в Израиле в такую заворачивают шаварму, добралась и до Москвы.</p>
     </div>

@@ -90,15 +90,11 @@
   <nav role="navigation" id="navigation" class="portal middle-container cover-container">
     <div class="middle portal-locations">
         <h4>Москва</h4>
-           <a href="/bolshaya-nikitskaya/ru">Большая Никитская</a>
-           <!--
-           <a href="/pyatnitskaya/ru">Пятницкая</a>
-           -->
+           <a href="/bolshaya-nikitskaya/ru">Большая Никитская 26/2</a>
+           <a href="/pyatnitskaya/ru">Пятницкая 6/1</a>
         <h4>Moscow</h4>
-           <a href="/bolshaya-nikitskaya/en">Bolshaya Nikitskaya</a>
-           <!--
-           <a href="/pyatnitskaya/en">Pyatnitskaya</a>
-           -->
+           <a href="/bolshaya-nikitskaya/en">Bolshaya Nikitskaya 26/2</a>
+           <a href="/pyatnitskaya/en">Pyatnitskaya 6/1</a>
    </div>
 
    <div class="fade-in portal-background">
@@ -187,49 +183,25 @@
   <div class="placeholder slice"></div>
     <div id="menus" class="jump slice"></div>
       <div class="slice menus-slice">
-       <h3>Menus</h3>
+       <h3>Меню</h3>
             <ul class="menus-list">
               <li class="menus-item">
-                <a href="/system/files/102014/5447705aefec8523120002cb/original/BREAKFAST_MENU-PRINT_VERSION-.pdf?1444698634">
-                  <h4>Breakfast</h4>
-                  <h5>View PDF</h5>
+               <a href="/menu/bolshaya-nikitskaya/list1en.pdf">
+                  <h4>Khachapur</h4>
+                  <h5>Смотреть PDF</h5>
                 </a>
               </li>
               <li class="menus-item">
-                <a href="/system/files/102014/54477064efec8523120002cc/original/PEP_All_Day_as_of_05.10.15.pdf?1444698634">
-                 <h4>All Day</h4>
-                 <h5>View PDF</h5>
+               <a href="/menu/bolshaya-nikitskaya/list2en.pdf">
+                 <h4>Over</h4>
+                 <h5>Смотреть PDF</h5>
                 </a> 
               </li>
               <li class="menus-item">
-                <a href="/system/files/102014/5447706befec8523120002cd/original/PEP_Saturday_Brunch_05.10.15.pdf?1444698634">
-                 <h4>Saturday Brunch</h4>
-                 <h5>View PDF</h5>
+               <a href="/menu/bolshaya-nikitskaya/list4en.pdf">
+                 <h4>Drinks</h4>
+                 <h5>Смотреть PDF</h5>
                 </a> 
-              </li>
-              <li class="menus-item">
-                <a href="/system/files/102014/54477072efec8523120002d8/original/PEP_Sunday_Brunch_15.10.08.pdf?1444698634">
-                 <h4>Sunday Brunch</h4>
-                 <h5>View PDF</h5>
-                </a> 
-              </li>
-              <li class="menus-item">
-               <a href="/system/files/102014/5447708eefec852312000303/original/PEP_Sunday_All_Day_05.10.15.pdf?1444698634">
-                 <h4>Sunday All Day</h4>
-                 <h5>View PDF</h5>
-               </a> 
-              </li>
-              <li class="menus-item">
-               <a href="/system/files/102014/54477080efec8523120002ea/original/PO_drink_11.08.15_FINAL.pdf?1444698634">
-                 <h4>Cocktails</h4>
-                 <h5>View PDF</h5>
-               </a>
-              </li>
-              <li class="menus-item">
-               <a href="/system/files/082015/55bf3e13ebeeb52e9e002876/original/DESSERT_MENU-PRINT_VERSION_10.06.15.pdf?1444698634">
-                 <h4>Dessert</h4>
-                 <h5>View PDF</h5>
-               </a> 
               </li>
             </ul>
       </div>
@@ -269,9 +241,9 @@
     </div>
 
   <div class="location-section location-booking-widget">
-       <h3>Our friends:</h3></br>
-      <a href="http://laffalaffa.ru">
-        <img alt="laffa" height="43" src="/assets/laffa.png" width="180" />
+       <h3>Our friends:</h3>
+      <a href="http://laffalaffa.ru" target="_blank"s>
+        <img alt="laffa" height="53" src="/assets/laffa.png" width="180" />
       </a>
       <p>Middle eastern street food is in Moscow! Thin and soft eastern tortilla “laffa”, in which shaverma is wrapped in Israel, has reached Moscow!</p>
     </div>
