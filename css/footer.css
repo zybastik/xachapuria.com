@@ -1,0 +1,285 @@
+#sh-footer div,  
+#sh-footer applet, 
+#sh-footer object, 
+#sh-footer h1, 
+#sh-footer h2, 
+#sh-footer h3, 
+#sh-footer h4,
+#sh-footer h5, 
+#sh-footer h6, 
+#sh-footer p, 
+#sh-footer blockquote, 
+#sh-footer pre,
+#sh-footer a, 
+#sh-footer abbr, 
+#sh-footer acronym, 
+#sh-footer address,
+#sh-footer big, 
+#sh-footer cite, 
+#sh-footer code, 
+#sh-footer del, 
+#sh-footer dfn,
+#sh-footer em, 
+#sh-footer img, 
+#sh-footer ins, 
+#sh-footer kbd, 
+#sh-footer q,
+#sh-footer s, 
+#sh-footer samp, 
+#sh-footer small, 
+#sh-footer strike, 
+#sh-footer strong,
+#sh-footer sub, 
+#sh-footer sup, 
+#sh-footer tt, 
+#sh-footer var, 
+#sh-footer b,
+#sh-footer u, 
+#sh-footer i, 
+#sh-footer center, 
+#sh-footer dl, 
+#sh-footer dt,
+#sh-footer dd, 
+#sh-footer ol, 
+#sh-footer ul, 
+#sh-footer li, 
+#sh-footer fieldset,
+#sh-footer form, 
+#sh-footer label, 
+#sh-footer legend, 
+#sh-footer table,
+#sh-footer caption, 
+#sh-footer tbody, 
+#sh-footer tfoot, 
+#sh-footer thead,
+#sh-footer tr, 
+#sh-footer th, 
+#sh-footer td, 
+#sh-footer article, 
+#sh-footer aside,
+#sh-footer canvas, 
+#sh-footer details, 
+#sh-footer embed, 
+#sh-footer figure,
+#sh-footer figcaption, 
+#sh-footer footer, 
+#sh-footer header, 
+#sh-footer hgroup,
+#sh-footer menu, 
+#sh-footer nav, 
+#sh-footer output, 
+#sh-footer ruby,
+#sh-footer section, 
+#sh-footer summary, 
+#sh-footer time, 
+#sh-footer mark,
+#sh-footer audio, 
+#sh-footer video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline
+}
+
+#sh-footer article, 
+#sh-footer aside, 
+#sh-footer details, 
+#sh-footer figcaption,
+#sh-footer figure, 
+#sh-footer footer, 
+#sh-footer header, 
+#sh-footer hgroup,
+#sh-footer menu, 
+#sh-footer nav, 
+#sh-footer section {
+    display: block
+}
+
+#sh-footer body {
+    line-height: 1
+}
+
+#sh-footer ol, 
+#sh-footer ul {
+    list-style: none
+}
+
+#sh-footer blockquote, 
+#sh-footer q {
+    quotes: none
+}
+
+#sh-footer blockquote:before, 
+#sh-footer blockquote:after, 
+#sh-footer q:before,
+#sh-footer q:after {
+    content: '';
+    content: none
+}
+
+#sh-footer table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+#sh-footer * {
+    text-align: left
+}
+
+#sh-footer {
+    background: #252525;
+    color: #808381;
+    font: 11px / 1.364 Arial, sans-serif;
+    letter-spacing: 0;
+    padding: 30px;
+    -webkit-font-smoothing: antialiased
+}
+
+#sh-footer .logo {
+    display: block;
+    float: left;
+    margin-top: 1.75em;
+    width: 40%;
+    min-width: 156px;
+    max-width: 210px;
+    height: 29px
+}
+
+#sh-footer .logo img {
+    height: 29px;
+    width: 114px
+}
+
+#sh-footer h2 {
+    margin: 0.8em 0;
+    font: bold 11px / 1.875 "Gotham SSm A", "Gotham SSm B", sans-serif;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #FFFFFF
+}
+
+#sh-footer h3 {
+    margin: 0.8em 0 0;
+    text-transform: none;
+    letter-spacing: 0;
+    color: #FFFFFF
+}
+
+#sh-footer p {
+    margin: 1em 0
+}
+
+#sh-footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+
+#sh-footer ul li a {
+    color: #808381;
+    text-decoration: none;
+    -webkit-transition: color 0.2s linear;
+    -moz-transition: color 0.2s linear;
+    -ms-transition: color 0.2s linear;
+    -o-transition: color 0.2s linear;
+    transition: color 0.2s linear
+}
+
+#sh-footer ul li a:hover {
+    color: #FFFFFF
+}
+
+#sh-footer .cols {
+    overflow: hidden;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto
+}
+
+#sh-footer .cols .legals {
+    overflow: hidden;
+    max-width: 960px;
+    margin-bottom: 50px
+}
+
+#sh-footer .cols .legals p {
+    float: left;
+    width: 60%
+}
+
+#sh-footer .cols .col {
+    float: left;
+    width: 50%
+}
+
+#sh-footer .banner-space {
+    text-align: center;
+    margin-bottom: 20px
+}
+
+#sh-footer .banner {
+    max-width: 100%
+}
+
+#sh-footer .banner img {
+    display: inline;
+    border: 0;
+    max-width: 100%;
+    width: auto;
+    height: auto
+}
+
+@media (max-width: 1000px) {
+    #sh-footer {
+        font: 10px / 1.364 Arial, sans-serif
+    }
+
+    #sh-footer .cols {
+        padding-bottom: 20px
+    }
+
+    #sh-footer h2 {
+        font: bold 10px / 1.364 Arial, sans-serif
+    }
+    #sh-footer .cols .col .toggle div {
+        width: 470px;
+        height: 500px;
+    }
+}
+
+@media (max-width: 800px) {
+    #sh-footer .cols {
+        width: 100%
+    }
+
+    #sh-footer .cols .legals p {
+        display: none
+    }
+
+    #sh-footer .cols .col {
+        float: none;
+        width: 100%
+    }
+
+    #sh-footer .cols .col .toggle {
+        display: none
+    }
+
+    #sh-footer h2 {
+        cursor: pointer
+    }
+
+    #sh-footer iframe {
+        width: 100%;
+        height: 500px;
+    }
+    #sh-footer .cols .col .toggle span {
+        width: 100%;
+        height: 500px;
+    }
+}
+
+

@@ -14,8 +14,9 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.0.4/jquery.imagesloaded.min.js" type="text/javascript"></script>
 <script src="/js/jquery.js" type="text/javascript"></script>
 
-<link href="//shared.houseseven.com/assets/footer.css" media="screen" rel="stylesheet" type="text/css" />
-<script src="//shared.houseseven.com/assets/sh_footer.js" type="text/javascript"></script>
+<link href="/css/footer.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="/js/sh_footer.js" type="text/javascript"></script>
+
 
 <!--[if lt IE 9]>
 <script src="/assets/html5shiv-019df1ccbde554dfd4aed769124c4cb0.js" type="text/javascript"></script>
@@ -66,19 +67,6 @@
   ga('send', 'pageview');
 </script>
 <!-- google.Metrika counter -->
-
-<!--facebook виджет -->
-<div id="fb-root"></div>
-<script>
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
-  fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
-<!--/facebook виджет -->
 
 <header id="header" role="banner" class="invertible">
   <h1>
@@ -292,26 +280,16 @@
     <div class="col">
           <h2>Instagram </h2>
             <div class="toggle">
-               <!-- виджет инстаграм -->
                <iframe src="http://ejfe.ru/noreg?type=lenta&insta=xachapuriacafe&color=CCC3BC&count=10&width=" frameborder="0" width="470" height="500"></iframe> 
             </div>
-        </div>
-        <div class="col">
-          <h2> </h2>
-            <div class="toggle">
-            </div>
-        </div>
+    </div>
 
-        <div class="col">
+    <div class="col">
           <h2>Facebook</h2>
             <div class="toggle">
-               <div class="fb-page" data-href="https://www.facebook.com/xachapuria" data-width="470" data-height="500" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="false" data-show-posts="true">
-                <div class="fb-xfbml-parse-ignore">
-                  <blockquote cite="https://www.facebook.com/xachapuria">
-                    <a href="https://www.facebook.com/xachapuria">Хачапурия</a></blockquote></div>
-                </div>
-               </div>
-        </div>       
+            <iframe src="http://ejfe.ru/noreg?type=lenta&face=xachapuria&color=CCC3BC&count=10&width=" frameborder="0" width="470" height="500"></iframe>
+            </div>
+    </div>       
     </div>
   </footer>
 </div>

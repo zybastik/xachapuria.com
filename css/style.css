@@ -311,8 +311,6 @@ a {
 .footer {
     position: relative;
     z-index: 1;
-     width: 100%;
-    height: 100%;
 
 }
 
@@ -692,12 +690,12 @@ a {
 
 .slider-next-button {
     right: 0;
-    background: url(/assets/right-arrow-baca3e9e41aa5ee0f4e3f170eb66ed0e.png) center center no-repeat
+    background: url(/assets/right.png) center center no-repeat
 }
 
 .slider-prev-button {
     left: 0;
-    background: url(/assets/left-arrow-9b907de0a32e3786d15a759e9311632c.png) center center no-repeat
+    background: url(/assets/left.png) center center no-repeat
 }
 
 .slider-bullets {
