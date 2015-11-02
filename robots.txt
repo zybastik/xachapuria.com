@@ -1,0 +1,12 @@
+User-agent: googlebot-image
+Disallow: /
+Host: xachapuria.com
+
+User-agent: psbot
+Disallow: /
+Host: xachapuria.com
+
+User-agent: *
+Disallow: /manager
+Sitemap: http://xachapuria.com/sitemap.xml
+Host: xachapuria.com

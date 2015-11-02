@@ -581,6 +581,35 @@ a {
     }
 }
 
+@media (max-width: 800px) {
+    .portal-locations .font {
+        font-size: 12px
+    }
+}
+
+@media (max-width: 600px) {
+    .portal-locations .font {
+        font-size: 12px
+    }
+}
+
+@media (max-width: 500px) {
+    .portal-locations .font {
+        font-size: 12px
+    }
+}
+@media (max-width: 400px) {
+    .portal-locations .font {
+        font-size: 10px
+    }
+}
+
+@media (max-width: 300px) {
+    .portal-locations .font {
+        font-size: 10px
+    }
+}
+
 
 .portal .translucent-black {
     z-index: 2

@@ -1,2 +1,26 @@
 # Do not remove this line or mod_rewrite rules and search engine friendly URLs will stop working
-RewriteBase /
+DirectoryIndex /index.html
+
+
+#кэширование html и htm на сутки
+<FilesMatch ".(html|htm)$">
+Header set Cache-Control "max-age=43200"
+</FilesMatch>
+#кэширование css, javascript и txt-файлов на неделю
+<FilesMatch ".(js|css|txt)$">
+Header set Cache-Control "max-age=604800"
+</FilesMatch>
+#кэширование flash и картинок на месяц
+<FilesMatch ".(flv|swf|ico|gif|jpg|jpeg|png)$">
+Header set Cache-Control "max-age=2592000"
+</FilesMatch>
+#запрет на кэширование скриптов
+<FilesMatch "\.(pl|php|cgi|spl|scgi|fcgi)$">
+Header unset Cache-Control
+</FilesMatch>
+
+# сжатие text, html, javascript, css, xml:
+<ifModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/plain text/xml application/xml application/xhtml+xml text/css text/javascript application/javascript application/x-javascript
+</ifModule>
+
