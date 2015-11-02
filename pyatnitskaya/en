@@ -118,7 +118,7 @@
 
   <div class="slice portal middle-container cover-container">
   <div class="middle location-header">
-    <h1>Pyatnitskaya</h1>
+    <h1>Pyatnitskaya 6/1</h1>
     <ul class="location-navigation invertible">
         <li><a href="#about-us" class="jumplink">About us</a></li>
         <li><a href="#gallery" class="jumplink">Gallery</a></li>
@@ -255,7 +255,7 @@
    <div class="location-section location-booking-widget">
        <h3>Our friends:</h3>
      <a href="http://laffalaffa.ru" target="_blank">
-        <img alt="laffa" height="163" src="/assets/laffa.png" width="320" />
+        <img alt="laffa" height="70" src="/assets/laffa.png" width="180" />
       </a>
       <p>middle eastern street food is in Moscow! Thin and soft eastern tortilla “laffa”, in which shaverma is wrapped in Israel, has reached Moscow!</p>
     </div>

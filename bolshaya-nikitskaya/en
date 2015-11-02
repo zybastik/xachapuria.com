@@ -118,7 +118,7 @@
 
   <div class="slice portal middle-container cover-container">
   <div class="middle location-header">
-    <h1>Bolshaya Nikitskaya</h1>
+    <h1>Bolshaya Nikitskaya 26/2</h1>
     <ul class="location-navigation invertible">
         <li><a href="#about-us" class="jumplink">About us</a></li>
         <li><a href="#gallery" class="jumplink">Gallery</a></li>
@@ -171,19 +171,13 @@
   <div class="placeholder slice"></div>
     <div id="menus" class="jump slice"></div>
       <div class="slice menus-slice">
-       <h3>Меню</h3>
+       <h3>Menu</h3>
             <ul class="menus-list">
               <li class="menus-item">
                <a href="/menu/bolshaya-nikitskaya/list1en.pdf">
-                  <h4>Khachapur</h4>
+                  <h4>Menu</h4>
                   <h5>View PDF</h5>
                 </a>
-              </li>
-              <li class="menus-item">
-               <a href="/menu/bolshaya-nikitskaya/list2en.pdf">
-                 <h4>Over</h4>
-                 <h5>View PDF</h5>
-                </a> 
               </li>
               <li class="menus-item">
                <a href="/menu/bolshaya-nikitskaya/list4en.pdf">
@@ -231,7 +225,7 @@
   <div class="location-section location-booking-widget">
        <h3>Our friends:</h3>
       <a href="http://laffalaffa.ru" target="_blank">
-        <img alt="laffa" height="163" src="/assets/laffa.png" width="320" />
+        <img alt="laffa" height="70" src="/assets/laffa.png" width="180" />
       </a>
       <p>Middle eastern street food is in Moscow! Thin and soft eastern tortilla “laffa”, in which shaverma is wrapped in Israel, has reached Moscow!</p>
     </div>
