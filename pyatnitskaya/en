@@ -247,15 +247,15 @@
   </div>
 
   <div>
-    <div class="location-section location-booking-text">
+     <div class="location-section location-booking-text">
       <h3>Hot offer:</h3>
-        <p>Тут будут актуальные, на данный момент, акции.</p>
+        <p>Post instagram photos with the hashtag #xachapuria and get coffee as a gift.</p>
     </div>
 
    <div class="location-section location-booking-widget">
        <h3>Our friends:</h3>
-      <a href="http://laffalaffa.ru" target="_blank">
-        <img alt="laffa" height="53" src="/assets/laffa.png" width="180" />
+     <a href="http://laffalaffa.ru" target="_blank">
+        <img alt="laffa" height="163" src="/assets/laffa.png" width="320" />
       </a>
       <p>middle eastern street food is in Moscow! Thin and soft eastern tortilla “laffa”, in which shaverma is wrapped in Israel, has reached Moscow!</p>
     </div>

@@ -226,13 +226,13 @@
   <div>
     <div class="location-section location-booking-text">
       <h3>Горячее предложение:</h3>
-        <p>Тут будут актуальные, на данный момент, акции.</p>
+        <p>Размести в instagram фото с хештегом #хачапурия и получи кофе в подарок.</p>
     </div>
 
     <div class="location-section location-booking-widget">
      <h3>Наши друзья:</h3>
       <a href="http://laffalaffa.ru" target="_blank">
-        <img alt="laffa" height="53" src="/assets/laffa.png" width="180" />
+        <img alt="laffa" height="163" src="/assets/laffa.png" width="320" />
       </a>
       <p>middle eastern street food – в Москве! Тонкая и мягкая восточная лепешка «лаффа» – в Израиле в такую заворачивают шаварму, добралась и до Москвы.</p>
     </div>
