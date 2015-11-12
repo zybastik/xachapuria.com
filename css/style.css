@@ -46,6 +46,23 @@
     font-style: normal
 }
 
+#preloader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #333;
+    z-index: 99999;
+    height: 100%;
+}
+#status {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    padding: 0;
+}
+
 .ss-icon {
     position: relative;
     top: 0.15em;
@@ -336,9 +353,17 @@ a {
 }
 
 #header img, #header a {
-    width: 200px;
+    width: 300px;
     margin: 0 auto;
     display: block
+}
+
+@media (max-width: 768px) {
+    #header img, #header a{
+        width: 200px;
+        margin: 0 auto;
+        display: block
+    }
 }
 
 .mobile #header {
@@ -517,6 +542,14 @@ a {
     color: white
 }
 
+.portal-locations a:hover {
+    display: block;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #C7C9C8
+}
+
 @media (max-width: 800px) {
     .portal-locations a {
         font-size: 29px
@@ -550,13 +583,8 @@ a {
     .portal-locations a {
         font-size: 10px
     }
-   } 
+} 
 
-@media (max-width: 300px) {
-    .portal-locations a {
-        font-size: 10px
-    }
-}
 
 @media (max-width: 600px) {
     .portal-locations h4 {
@@ -622,6 +650,16 @@ a {
     z-index: 0;
     width: 100%;
     height: 100%
+}
+
+.mobile .portal-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    src: "images/xachapuri.jpg";
 }
 
 .location-image {
@@ -899,19 +937,19 @@ a {
 
 @media (max-width: 600px) {
     .location-header h1 {
-        font-size: 24px
+        font-size: 22px
     }
 }
 
 @media (max-width: 400px) {
     .location-header h1 {
-        font-size: 18px
+        font-size: 16px
     }
 }
 
 @media (max-width: 300px) {
     .location-header h1 {
-        font-size: 14px
+        font-size: 12px
     }
 }
 

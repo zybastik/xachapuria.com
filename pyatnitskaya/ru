@@ -19,7 +19,7 @@
 
 
 <!--[if lt IE 9]>
-<script src="/assets/html5shiv-019df1ccbde554dfd4aed769124c4cb0.js" type="text/javascript"></script>
+<script src="/assets/html5.js" type="text/javascript"></script>
 <![endif]-->
 
 </head>
@@ -71,7 +71,7 @@
 <header id="header" role="banner" class="invertible">
   <h1>
     <a href="/">
-      <img alt="Xachapuria" height="38" src="/assets/logo.png" width="250" />
+      <img alt="Xachapuria" src="/assets/logo.png" />
     </a>
   </h1>
 </header>
