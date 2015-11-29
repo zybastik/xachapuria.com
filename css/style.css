@@ -46,22 +46,7 @@
     font-style: normal
 }
 
-#preloader {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: #333;
-    z-index: 99999;
-    height: 100%;
-}
-#status {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    padding: 0;
-}
+
 
 .ss-icon {
     position: relative;
@@ -650,16 +635,6 @@ a {
     z-index: 0;
     width: 100%;
     height: 100%
-}
-
-.mobile .portal-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 0;
-    width: 100%;
-    height: 100%;
-    src: "images/xachapuri.jpg";
 }
 
 .location-image {

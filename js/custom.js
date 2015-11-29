@@ -1,3 +1,4 @@
+
 jQuery(document).ready(function() {
 
     
@@ -14,4 +15,5 @@ jQuery(document).ready(function() {
     	$("#preloader").delay(500).fadeOut("slow").remove();      
 
   	}) 
-    });
+
+});
