@@ -4,7 +4,7 @@
 <head>
   <title>Хачапурия | Пятницкая</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Хачапурия на Пятницкой. В меню хачапури: от лодочки с фасолью и копчёным мясом до привычного варианта с сыром и яйцом, свежая выпечка, булочки и горячий какао с пончиками.">
+<meta name="description" content="Хачапурия на Пятницкой. В меню хачапури: от лодочки с фасолью и копчёным мясом до привычного варианта с сыром и яйцом, свежеиспеченные лаваши и многое другое.">
 <meta name="keywords" lang="ru" content="хачапурия,хачапурия кафе, хачапурия меню, хачапурия пятницкая">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
@@ -159,6 +159,12 @@
         <li class="cover-container">
           <img alt="py_6" class="cover" height="1079" data-src="/images/pyatnitskaya/py_6.jpg" width="1440" />
         </li>
+        <li class="cover-container">
+          <img alt="py_7" class="cover" height="1079" data-src="/images/pyatnitskaya/py_7.jpg" width="1440" />
+        </li>
+        <li class="cover-container">
+          <img alt="py_8" class="cover" height="1079" data-src="/images/pyatnitskaya/py_8.jpg" width="1440" />
+        </li>
     </ul>
   </div>
 </div>
@@ -169,46 +175,16 @@
        <h3>Меню</h3>
             <ul class="menus-list">
               <li class="menus-item">
-                <a href="/menu/pyatnitskaya/list1.pdf">
-                  <h4>Breakfast</h4>
+               <a href="/menu/bolshaya-nikitskaya/list1ru.pdf">
+                  <h4>Меню</h4>
                   <h5>Смотреть PDF</h5>
                 </a>
               </li>
               <li class="menus-item">
-                <a href="/menu/pyatnitskaya/list2.pdf">
-                 <h4>All Day</h4>
+               <a href="/menu/bolshaya-nikitskaya/list4ru.pdf">
+                 <h4>Напитки</h4>
                  <h5>Смотреть PDF</h5>
                 </a> 
-              </li>
-              <li class="menus-item">
-                <a href="/menu/pyatnitskaya/list3.pdf">
-                 <h4>Saturday Brunch</h4>
-                 <h5>Смотреть PDF</h5>
-                </a> 
-              </li>
-              <li class="menus-item">
-                <a href="/menu/pyatnitskaya/list4.pdf">
-                 <h4>Sunday Brunch</h4>
-                 <h5>Смотреть PDF</h5>
-                </a> 
-              </li>
-              <li class="menus-item">
-               <a href="/menu/pyatnitskaya/list5.pdf">
-                 <h4>Sunday All Day</h4>
-                 <h5>Смотреть PDF</h5>
-               </a> 
-              </li>
-              <li class="menus-item">
-               <a href="/menu/pyatnitskaya/list6.pdf">
-                 <h4>Cocktails</h4>
-                 <h5>Смотреть PDF</h5>
-               </a>
-              </li>
-              <li class="menus-item">
-               <a href="/menu/pyatnitskaya/list7.pdf">
-                 <h4>Dessert</h4>
-                 <h5>Смотреть PDF</h5>
-               </a> 
               </li>
             </ul>
       </div>
@@ -227,13 +203,13 @@
 
     <div class="location-section location-opening-hours">
       <h3>Часы работы:</h3>
-       <p><strong>Понедельник:</strong> 12.00 – 00.00<br/>
-          <strong>Вторник:</strong> 12:00 – 00:00<br/>    
-          <strong>Среда:</strong> 12:00 – 00:00<br/>
-          <strong>Четверг:</strong> 12:00 – 00:00<br/>
-          <strong>Пятница:</strong> 12:00 – 00:00<br/>
-          <strong>Суббота:</strong> 12:00 – 00:00<br/>
-          <strong>Воскресенье:</strong> 12:00 – 00:00<br/></p>
+       <p><strong>Понедельник:</strong> 11.00 – 00.00<br/>
+          <strong>Вторник:</strong> 11:00 – 00:00<br/>    
+          <strong>Среда:</strong> 11:00 – 00:00<br/>
+          <strong>Четверг:</strong> 11:00 – 00:00<br/>
+          <strong>Пятница:</strong> 11:00 – 00:00<br/>
+          <strong>Суббота:</strong> 11:00 – 00:00<br/>
+          <strong>Воскресенье:</strong> 11:00 – 00:00<br/></p>
     </div>
   </div>
 

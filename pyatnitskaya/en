@@ -82,9 +82,9 @@
    <div class="fade-in portal-background">
       <img alt="xachapuri" class="cover" height="899" src="/images/xachapuri.jpg" width="1348" />
       <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/ru" height="960" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
-      <img alt="py_1" class="cover location-image" data-path="/pyatnitskaya/ru" height="960" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
+      <img alt="py_3" class="cover location-image" data-path="/pyatnitskaya/ru" height="960" data-src="/images/pyatnitskaya/py_3.jpg" width="1440" />
       <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/en" height="960" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
-      <img alt="py_1" class="cover location-image" data-path="/pyatnitskaya/en" height="960" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
+      <img alt="py_3" class="cover location-image" data-path="/pyatnitskaya/en" height="960" data-src="/images/pyatnitskaya/py_3.jpg" width="1440" />
 
     <div class="translucent-black"></div>
   </div>
@@ -148,7 +148,7 @@ Khachapuri is a speciality dish of our restaurant with a choice of fillings, fro
           <img alt="py_2" class="cover" height="1079" data-src="/images/pyatnitskaya/py_2.jpg" width="1440" />
         </li>
         <li class="cover-container">
-          <img alt="py_3" class="cover" height="1079" data-src="/images/pyatnitskaya/py_3.jpg" width="1440" />
+          <img alt="py_1" class="cover" height="1079" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
         </li>
         <li class="cover-container">
           <img alt="py_4" class="cover" height="1079" data-src="/images/pyatnitskaya/py_4.jpg" width="1440" />
@@ -159,6 +159,12 @@ Khachapuri is a speciality dish of our restaurant with a choice of fillings, fro
         <li class="cover-container">
           <img alt="py_6" class="cover" height="1079" data-src="/images/pyatnitskaya/py_6.jpg" width="1440" />
         </li>
+           <li class="cover-container">
+          <img alt="py_7" class="cover" height="1079" data-src="/images/pyatnitskaya/py_7.jpg" width="1440" />
+        </li>
+        <li class="cover-container">
+          <img alt="py_8" class="cover" height="1079" data-src="/images/pyatnitskaya/py_8.jpg" width="1440" />
+        </li>
     </ul>
   </div>
 </div>
@@ -166,49 +172,19 @@ Khachapuri is a speciality dish of our restaurant with a choice of fillings, fro
   <div class="placeholder slice"></div>
     <div id="menus" class="jump slice"></div>
       <div class="slice menus-slice">
-       <h3>Menus</h3>
+       <h3>Menu</h3>
             <ul class="menus-list">
               <li class="menus-item">
-                <a href="/menu/pyatnitskaya/list1.pdf">
-                  <h4>Breakfast</h4>
+               <a href="/menu/bolshaya-nikitskaya/list1en.pdf">
+                  <h4>Menu</h4>
                   <h5>View PDF</h5>
                 </a>
               </li>
               <li class="menus-item">
-                <a href="/menu/pyatnitskaya/list2.pdf">
-                 <h4>All Day</h4>
+               <a href="/menu/bolshaya-nikitskaya/list4en.pdf">
+                 <h4>Drinks</h4>
                  <h5>View PDF</h5>
                 </a> 
-              </li>
-              <li class="menus-item">
-                <a href="/menu/pyatnitskaya/list3.pdf">
-                 <h4>Saturday Brunch</h4>
-                 <h5>View PDF</h5>
-                </a> 
-              </li>
-              <li class="menus-item">
-                <a href="/menu/pyatnitskaya/list4.pdf">
-                 <h4>Sunday Brunch</h4>
-                 <h5>View PDF</h5>
-                </a> 
-              </li>
-              <li class="menus-item">
-               <a href="/menu/pyatnitskaya/list5.pdf">
-                 <h4>Sunday All Day</h4>
-                 <h5>View PDF</h5>
-               </a> 
-              </li>
-              <li class="menus-item">
-               <a href="/menu/pyatnitskaya/list6.pdf">
-                 <h4>Cocktails</h4>
-                 <h5>View PDF</h5>
-               </a>
-              </li>
-              <li class="menus-item">
-               <a href="/menu/pyatnitskaya/list7.pdf">
-                 <h4>Dessert</h4>
-                 <h5>View PDF</h5>
-               </a> 
               </li>
             </ul>
       </div>
@@ -227,13 +203,13 @@ Khachapuri is a speciality dish of our restaurant with a choice of fillings, fro
 
     <div class="location-section location-opening-hours">
       <h3>Opening hours:</h3>
-       <p><strong>Monday:</strong> 12am – 12pm<br/>
-          <strong>Tuesday:</strong> 12am – 12pm<br/>    
-          <strong>Wednesday:</strong> 12am – 12pm<br/>
-          <strong>Thursday:</strong> 12am – 12pm<br/>
-          <strong>Friday:</strong> 12am – 12pm<br/>
-          <strong>Saturday:</strong> 12am – 12pm<br/>
-          <strong>Sunday:</strong> 12am – 12pm<br/></p>
+       <p><strong>Monday:</strong> 11am – 12pm<br/>
+          <strong>Tuesday:</strong> 11am – 12pm<br/>    
+          <strong>Wednesday:</strong> 11am – 12pm<br/>
+          <strong>Thursday:</strong> 11am – 12pm<br/>
+          <strong>Friday:</strong> 11am – 12pm<br/>
+          <strong>Saturday:</strong> 11am – 12pm<br/>
+          <strong>Sunday:</strong> 11am – 12pm<br/></p>
     </div>
   </div>
 
