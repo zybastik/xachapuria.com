@@ -83,9 +83,9 @@
    <div class="fade-in portal-background">
       <img alt="xachapuri" class="cover" height="899" src="/images/xachapuri.jpg" width="1348" />
       <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/ru" height="960" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
-      <img alt="py_1" class="cover location-image" data-path="/pyatnitskaya/ru" height="960" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
+      <img alt="py_3" class="cover location-image" data-path="/pyatnitskaya/ru" height="960" data-src="/images/pyatnitskaya/py_3.jpg" width="1440" />
       <img alt="bn_1" class="cover location-image" data-path="/bolshaya-nikitskaya/en" height="960" data-src="/images/bolshaya-nikitskaya/bn_1.jpg" width="1440" />
-      <img alt="py_1" class="cover location-image" data-path="/pyatnitskaya/en" height="960" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
+      <img alt="py_3" class="cover location-image" data-path="/pyatnitskaya/en" height="960" data-src="/images/pyatnitskaya/py_3.jpg" width="1440" />
 
     <div class="translucent-black"></div>
   </div>
@@ -148,7 +148,7 @@
           <img alt="py_2" class="cover" height="1079" data-src="/images/pyatnitskaya/py_2.jpg" width="1440" />
         </li>
         <li class="cover-container">
-          <img alt="py_3" class="cover" height="1079" data-src="/images/pyatnitskaya/py_3.jpg" width="1440" />
+          <img alt="py_1" class="cover" height="1079" data-src="/images/pyatnitskaya/py_1.jpg" width="1440" />
         </li>
         <li class="cover-container">
           <img alt="py_4" class="cover" height="1079" data-src="/images/pyatnitskaya/py_4.jpg" width="1440" />
@@ -198,7 +198,7 @@
       <p>Пятницкая, 6/1<br />
           109012 Москва, Россия</p>
       <p><a href="tel:84959755590" class="button">Телефон</a></p>
-      <p><a href="mailto:info@xachapuria.com" class="button">Email</a></p>
+      <p><a href="mailto:xachapuria@gmail.com" class="button">Email</a></p>
     </div>
 
     <div class="location-section location-opening-hours">
