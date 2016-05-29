@@ -118,6 +118,7 @@
         <li><a href="#gallery" class="jumplink">Галерея</a></li>
         <li><a href="#menus" class="jumplink">Меню</a></li>
         <li><a href="#contact" class="jumplink">Контакты</a></li>
+        <li><a href="http://www.delivery-club.ru/srv/Khachapurija/">Доставка</a></li>
     </ul>
   </div>
 
@@ -191,7 +192,7 @@
       <p>Большая Никитская, 26/2<br />
           109012 Москва, Россия</p>
       <p><a href="tel:84959755590" class="button">Телефон</a></p>
-      <p><a href="mailto:xachapuria@gmail.com" class="button">Email</a></p>
+      <p><a href="mailto:xachapuriya@gmail.com" class="button">Email</a></p>
     </div>
 
     <div class="location-section location-opening-hours">
